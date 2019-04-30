@@ -3,7 +3,7 @@
 use App\Models\User;
 use Illuminate\Support\Str;
 use Faker\Generator as Faker;
-
+use Faker\Factory;
 /*
 |--------------------------------------------------------------------------
 | Model Factories
